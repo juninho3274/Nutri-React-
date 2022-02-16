@@ -3,5 +3,6 @@ Página feita com a ferramenta React, sendo somente requisição http sem rotas 
 
 Aplicação rodando de forma estática:
 https://juninho3274.github.io/Nutri-React-/
+<br/>
 API ultilizada:
 https://sujeitoprogramador.com/rn-api/?api=posts
